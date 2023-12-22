@@ -1,2 +1,2 @@
 # MIT_EIE_Resources
-All resources to pass EIE at MIT, Manipal.
+All resources for EIE at MIT, Manipal.
