@@ -1,4 +1,4 @@
-#Minor Specialization : Fundamentals of Computing (Coursera)
+# Minor Specialization : Fundamentals of Computing (Coursera)
 
 Semester 6 : 
 
