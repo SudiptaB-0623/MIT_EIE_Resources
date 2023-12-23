@@ -10,5 +10,5 @@ Link : https://www.coursera.org/learn/interactive-python-1
 Link : https://www.coursera.org/learn/interactive-python-2
 
 Course 2 : Mathematical Problem Solving using Python (CRA 4064)
-Principles of Computing (Part 1)
+Principles of Computing (Part 1) - RICE University
 Link : https://www.coursera.org/learn/principles-of-computing-1
