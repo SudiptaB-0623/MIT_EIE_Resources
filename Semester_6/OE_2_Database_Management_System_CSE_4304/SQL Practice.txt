@@ -1,0 +1,26 @@
+CREATE TABLE Department(
+  number INT,
+  name VARCHAR(100),
+  PRIMARY KEY(number)
+);
+CREATE TABLE Employee(
+  ssn INT PRIMARY KEY,
+  name VARCHAR(100),
+  dnumber INT,
+  FOREIGN KEY(dnumber) REFERENCES Department
+);
+
+INSERT INTO department(number, name)
+VALUES(1,'CSE');
+INSERT INTO department(number, name)
+VALUES(2,'EC');
+
+
+INSERT INTO Employee(ssn, name,dnumber)
+VALUES(1,'Amar', 1);
+INSERT INTO Employee(ssn, name, dnumber)
+VALUES(2, 'Akbar', 1);
+INSERT INTO Employee(ssn, name, dnumber)
+VALUES(3, 'Antony', 1);
+INSERT INTO Employee(ssn, name, dnumber)
+VALUES(4, 'Amar', 2);
